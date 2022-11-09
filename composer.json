@@ -1,0 +1,17 @@
+{
+    "name": "niuzilong/douyin-store-package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Niuzilong\\DouyinStorePackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "niuzilong"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
